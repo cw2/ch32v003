@@ -64,7 +64,7 @@ _Note: There are several WCH-Link variants that look very similar, but only WCH-
 * [WCH-LinkUtility](https://www.wch.cn/downloads/WCH-LinkUtility_ZIP.html)
 
 Extra Features
-* Automatic firmware upgrade (CH32V605F),
+* Automatic firmware upgrade (CH32V305F),
 * USB serial port (`printf()` output redirect)
 * Software controllable 3.3V and 5V power supply pins (max 200 mA and 400 mA respectively).
 
