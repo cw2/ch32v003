@@ -8,9 +8,11 @@ Official Resources
 * [QingKeV2 Processor Manual (.pdf)](http://www.wch-ic.com/downloads/QingKeV2_Processor_Manual_PDF.html)
 * [GitHub repository](https://github.com/openwch/ch32v003)
 
-## Community Highlight
+## Community Highlights
 
-https://github.com/cnlohr/ch32v003fun
+https://github.com/cnlohr/ch32v003fun - Open source software development stack for CH32V003, optimized for size and speed; includes cross-platform `minichlink` command line programmer application with built-in gdb support and many examples.
+
+https://github.com/cnlohr/rv003usb - Software-only low-speed USB stack that fits into a bootloader flash memory area. _:construction_worker: Work in progress, live coding sessions available at https://www.youtube.com/@CNLohr/streams._
 
 ## Development Boards
 
